@@ -1,0 +1,8 @@
+D:\R52\M2\Projects\1\RepositoryPatternSolution\FactiryPattern\bin\Debug\FactiryPattern.exe.config
+D:\R52\M2\Projects\1\RepositoryPatternSolution\FactiryPattern\bin\Debug\FactiryPattern.exe
+D:\R52\M2\Projects\1\RepositoryPatternSolution\FactiryPattern\bin\Debug\FactiryPattern.pdb
+D:\R52\M2\Projects\1\RepositoryPatternSolution\FactiryPattern\obj\Debug\FactiryPattern.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\1\RepositoryPatternSolution\FactiryPattern\obj\Debug\FactiryPattern.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\1\RepositoryPatternSolution\FactiryPattern\obj\Debug\FactiryPattern.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\1\RepositoryPatternSolution\FactiryPattern\obj\Debug\FactiryPattern.exe
+D:\R52\M2\Projects\1\RepositoryPatternSolution\FactiryPattern\obj\Debug\FactiryPattern.pdb

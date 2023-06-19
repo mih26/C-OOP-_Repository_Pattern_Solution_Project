@@ -1,0 +1,24 @@
+D:\R52\M2\Projects\1\RepositoryPatternSolution\RepositoryPattern\bin\Debug\MethodPattern.exe.config
+D:\R52\M2\Projects\1\RepositoryPatternSolution\RepositoryPattern\bin\Debug\MethodPattern.exe
+D:\R52\M2\Projects\1\RepositoryPatternSolution\RepositoryPattern\bin\Debug\MethodPattern.pdb
+D:\R52\M2\Projects\1\RepositoryPatternSolution\RepositoryPattern\obj\Debug\MethodPattern.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\1\RepositoryPatternSolution\RepositoryPattern\obj\Debug\MethodPattern.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\1\RepositoryPatternSolution\RepositoryPattern\obj\Debug\MethodPattern.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\1\RepositoryPatternSolution\RepositoryPattern\obj\Debug\MethodPattern.exe
+D:\R52\M2\Projects\1\RepositoryPatternSolution\RepositoryPattern\obj\Debug\MethodPattern.pdb
+D:\R52\M2\Projects\1\RepositoryPatternSolution\MethodPattern\bin\Debug\MethodPattern.exe.config
+D:\R52\M2\Projects\1\RepositoryPatternSolution\MethodPattern\bin\Debug\MethodPattern.exe
+D:\R52\M2\Projects\1\RepositoryPatternSolution\MethodPattern\bin\Debug\MethodPattern.pdb
+D:\R52\M2\Projects\1\RepositoryPatternSolution\MethodPattern\obj\Debug\MethodPattern.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\1\RepositoryPatternSolution\MethodPattern\obj\Debug\MethodPattern.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\1\RepositoryPatternSolution\MethodPattern\obj\Debug\MethodPattern.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\1\RepositoryPatternSolution\MethodPattern\obj\Debug\MethodPattern.exe
+D:\R52\M2\Projects\1\RepositoryPatternSolution\MethodPattern\obj\Debug\MethodPattern.pdb
+E:\1_Round_52\2. Microsoft C#.Net\Project-C#\Iqbal\RepositoryPatternSolution\MethodPattern\bin\Debug\MethodPattern.exe.config
+E:\1_Round_52\2. Microsoft C#.Net\Project-C#\Iqbal\RepositoryPatternSolution\MethodPattern\bin\Debug\MethodPattern.exe
+E:\1_Round_52\2. Microsoft C#.Net\Project-C#\Iqbal\RepositoryPatternSolution\MethodPattern\bin\Debug\MethodPattern.pdb
+E:\1_Round_52\2. Microsoft C#.Net\Project-C#\Iqbal\RepositoryPatternSolution\MethodPattern\obj\Debug\MethodPattern.csproj.AssemblyReference.cache
+E:\1_Round_52\2. Microsoft C#.Net\Project-C#\Iqbal\RepositoryPatternSolution\MethodPattern\obj\Debug\MethodPattern.csproj.SuggestedBindingRedirects.cache
+E:\1_Round_52\2. Microsoft C#.Net\Project-C#\Iqbal\RepositoryPatternSolution\MethodPattern\obj\Debug\MethodPattern.csproj.CoreCompileInputs.cache
+E:\1_Round_52\2. Microsoft C#.Net\Project-C#\Iqbal\RepositoryPatternSolution\MethodPattern\obj\Debug\MethodPattern.exe
+E:\1_Round_52\2. Microsoft C#.Net\Project-C#\Iqbal\RepositoryPatternSolution\MethodPattern\obj\Debug\MethodPattern.pdb
